@@ -6,4 +6,4 @@ cd into bin, then
 
 See mycontroller() function to tweak the controller.
 
-Disturb the models by double-clicking the desired body and then Ctrl + left click to drag the body.
+Disturb the models by double-clicking the desired body and then Ctrl + left click (position disturb) or right click (force disturb) to drag the body.
